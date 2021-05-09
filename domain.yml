@@ -50,19 +50,18 @@ responses:
   - text: "Please spray Tricel-20 @ 3ml per liter of water to control aphids in paddy"
 
   utter_query/aphids_general:
-  - text: "SPRAY ROGOR @ 1.5 ML PER LITRE OF WATER"
+  - text: "Aphids can generally be controlled by spraying Rogor @ 1.5ml per liter of Water"
 
   utter_query/aphids_toria:
-  - text: "SUGGESTED TO SPRAY MALATHION 50 EC @ 2ML PER LITER OF WATER"
+  - text: "It is suggested to use Malathion 50 EC @ 2ml per liter of water to control aphids in toria"
 
   utter_query/aphids_maize:
-  - text: "SPRAY ROGOR 35 EC @ 2 ML/ LITER WATER"
-  - text: "SPRAY CHLOROPYRIPHOS @ 2 ML/LIT OF WATER"
+  - text: "To get rid of aphids from maize, you can use Rogor 35 EC @ 2 ml per liter of water OR chloropyriphos @ 2ml per liter of water"
 
   utter_query/leafhopper_rice:
   - text: "Please spray EKALUX @ 3ml per liter of water to control leaf hopper in rice/ paddy"
-  - text: "ADVICE TO APPLY TRICEL 20 @ 2 ML / LITRE"
-  - text: "SPRAY TARZAN(TRIAZOPHOS 40 EC) @ 1.5 ML PER LITRE OF WATER"
+  - text: "Leafhopper infestation can be treated with Tricel 20 @ 2 ml per liter"
+  - text: "Please spray Tarazn(Ttriazophos 40 EC) @ 1.5 ml per liter of water"
   
   utter_query/seed_treatment_paddy:
   - text: "Treat the seed with MANCOZEB @ 2.5 gm per liter of water for 24 hours for seed treatment of paddy."
@@ -77,53 +76,46 @@ responses:
   - text: "Please apply TOP STAR @ 2ml per liter of water at 0-3 days after transplanting"
 
   utter_query/control_rot:
-  - text: "APPLY BAVISTIN @ 1 GRAM PER LITRE OF WATER"
-  - text: "SPRAY CAPTAF @ 2 GM PER LITER OF WATER"
+  - text: "Rot can be controlled by applying Bavastin @ 1gm/L of water or Captaf @ 2gm/ L of water."
 
   utter_query/control_rodent_wheat:
-  - text: "APPLY CELPHOS TAB @ 1 TAB PER PITH TO CONTROL RODENT"
-  - text: "APPLY ZINC PHOSPTIHE TABLET"
+  - text: "You may use Celphos Tab or Zinc Phosphide tablets to control rodents."
 
   utter_query/top_dressing_paddy:
   - text: "Please apply UREA @ 2m3 Kg per bigha as top dressing after 30 days"
 
   utter_query/aphids_mustard:
-  - text: "Please spray ROGOR 35 EC @ 2 ml per liter of water to control aphids in mustard"
+  - text: "Please spray ROGOR 35 EC @ 2 ml per liter of water to control aphids in mustard."
 
   utter_query/fertilizer_dosage_rice:
   - text: "Please use the following composition as the fertilizer for paddy per bigha - UREA=29 KG,SSP=50 KG,MOP=13 KG,ZnSO4=6 KG"
   
   utter_query/mustard_saw_fly:
-  - text: "ADVISED TO APPLY EKALUX@ 2ML/LIT"
-  - text: "ADVISED TO APPLY MALATHION 50EC @ 2ML/LIT"
-  - text: "APPLY TRICEL 20 @ 2ML/LT OF WATER"
+  - text: "You can treat your crop using either of the following: Ekalux @ 2ml/L; Malathion 50EC @ 2ml/L; Tricel 20 @ 2ml/L."
   
   utter_query/control_rodent_rice:
-  - text: "ADVICE TO SPRAY FURADONE AGAINST RATS"
-  - text: "ADVICE TO APPLY ZINC PHOSPHATE TABLET"
+  - text: "You may use Furadone to repel rats and zinc phosphide tablets as rodenticide."
   
   utter_query/caterpillar:
-  - text: "SPRAY PROFEX SUPER @ 2ML PER LITRE OF WATER"
-  - text: "SPRAY MALATHION 50 EC @ 2 ML./LITRE OF WATER."
-  - text: "SPRAY EKALUX @ 2 ML PER LITRE OF WATER"
+  - text: "You can use one of the following to get rid of caterpillars: Profex Super @ 2ml/L; Malathon 50EC @ 2ml/L; Ekalux @ 2ml/L."
   
   utter_query/control_fruitfly:
-  - text: "SUGESSTED TO SPRAY MALATHION 50 EC @ 2 GM PER LITER OF WATER"
+  - text: "You can use Malathon 50 EC @ 2ml/L of water to get rid of fruitfly infestation."
   
   utter_query/control_weeds_manual:
-  - text: "SUGGESTED TO DO WEEDING MANUALLY"
+  - text: "Please consider mechanical weeding if chemical weeding is not feasible."
   
   utter_query/requires_malathion:
-  - text: "SUGGESTED TO SPRAY MALATHION 50 EC @ 2ML PER LITER OF WATER"
+  - text: "Suggested treatment for your crop in this case is Malathon 50 EC @ 2ml/L of water."
   
   utter_query/requires_bavistin:
-  - text: "APPLY BAVISTIN @ 1 GRAM PER LITRE OF WATER"
+  - text: "Suggested treatment for your crop in this case is Bavastin @ 1 gm/L of water."
   
   utter_query/requires_tricel:
-  - text: "SPRAY TRICEL 20 @ 2 ML PER LITER OF WATER"
+  - text: "Suggested treatment for your crop in this case is Tricel 20 @ 2ml/L of water."
   
   utter_query/requires_rogor:
-  - text: "SPRAY ROGOR @ 2 ML PER LITER OF WATER"
+  - text: "Suggested treatment for your crop in this case is Rogor @ 2ml/L of water."
 
   utter_query/govt_subsidy:
   - text: "RECOMMENDED HIM TO CONTACT OFFICE OF THE DISTRICT AGRICULTURE OFFICER"
